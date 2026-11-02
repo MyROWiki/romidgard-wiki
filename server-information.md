@@ -1,6 +1,6 @@
 # Server Information
 
-BakbakanRO is a **classic Pre-Renewal Ragnarok Online server** built around the 99/70 era, Episode 12 progression, MVP hunting, PvP, and guild competition.
+Return of Midgard is a **classic Pre-Renewal Ragnarok Online server** built around the 99/70 era, Episode 12 progression, MVP hunting, PvP, and guild competition.
 
 The server is **permanently free-to-play**, with optional Premium services available for additional convenience.
 
@@ -98,4 +98,4 @@ For item, monster-drop, map, and database scope details, see [Episode 12: The De
 
 ## Official Reference
 
-This page summarizes the server's main gameplay settings. When a setting changes, the current version of this wiki should be treated as the player-facing reference.
+This page summarizes Return of Midgard's main gameplay settings. When a setting changes, the current version of this wiki should be treated as the player-facing reference.
