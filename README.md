@@ -1,6 +1,6 @@
 ![Return of Midgard Wiki Cover](images/romidgard-wiki-cover.png)
 
-# The Classic pRO Experience Returns
+# The Classic Experience Returns
 
 Welcome to the **official Return of Midgard Game Wiki** — your player guide for server information, progression, features, and Episode 12 content.
 
