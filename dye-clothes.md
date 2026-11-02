@@ -10,9 +10,9 @@ Each supported job class has **three clothing colors** available:
 - **Option 1** — alternate clothing color
 - **Option 2** — alternate clothing color
 
-## NPC Locations
+## Location
 
-| NPC | Map | Coordinates |
+| Name | Map | Coordinates |
 | --- | --- | --- |
 | Stylist Dinorah Lacostt | Orc Village (`in_orcs01`) | `20,109` |
 | Stylist Dinorah Lacostt | Yuno | `333,108` |
@@ -104,7 +104,7 @@ Simply **relog** and your dyed clothing color should appear again.
 
 ## Quick Reference
 
-- **NPC:** Stylist Dinorah Lacostt
+- **Name:** Stylist Dinorah Lacostt
 - **Available Colors:** Original, Option 1, Option 2
 - **Original Color:** 1 Original Clothing Dye Coupon
 - **Option 1:** 1 New Clothing Dye Coupon
