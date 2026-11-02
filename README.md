@@ -2,11 +2,13 @@
 
 # The Classic Experience Returns
 
-Welcome to the **official Return of Midgard Game Wiki** — your player guide for server information, progression, features, and Episode 12 content.
+**Return of Midgard** was created to bring back the memories and atmosphere of the classic **Philippine Ragnarok Online (pRO)** era, focusing on **Episode 12: The Demise of Morroc**.
+
+Our goal is to recreate the familiar experience remembered by many players from the **Philippine Ragnarok Online (pRO) era** — classic Pre-Renewal gameplay, the 99/70 era, iconic maps, MVP hunting, PvP, War of Emperium, and the adventures that made Rune-Midgard unforgettable.
+
+Return of Midgard is not simply about playing an old version of Ragnarok Online. It is about revisiting the memories, friendships, rivalries, and experiences that made the classic pRO era special.
 
 **Classic Pre-Renewal • 99/70 • Episode 12: The Demise of Morroc**
-
-The server is built around the classic Ragnarok Online experience, with a focus on character progression, MVP hunting, PvP, War of Emperium, and the world of Rune-Midgard before Third Jobs.
 
 ## Official Links
 
