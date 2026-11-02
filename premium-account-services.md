@@ -14,15 +14,19 @@ While Premium is active, the account receives:
 - **Change Name Service** — a **Ticket of Identification is still required** when using this service.
 - **Repair Service**
 
-## How to Become Premium
+## Required Items
 
-To activate Premium, obtain a **Premium Box** and use the item on your account. Simply use the Premium Box item and the account will become Premium.
+| Item | Preview | Where to Get |
+| --- | --- | --- |
+| **Premium Box** | ![](images/premium-box.png) | Cash Merchant |
 
-![Premium Box](images/premium-box.png)
+To activate Premium, obtain a **Premium Box** and use the item on your account. The account becomes Premium after the box is used successfully.
 
 Premium Boxes can be purchased from the **Cash Merchant in Prontera** and from Cash Merchants located in other towns.
 
 A complete list of **Cash Merchant locations and coordinates** will be added to this wiki later.
+
+> **Change Name Service:** A **Ticket of Identification** is also required when using this specific Premium service. Its preview and acquisition details will be added once documented.
 
 ## Premium Account Notification
 
@@ -37,11 +41,11 @@ If the account is **not Premium**, this Premium notification is not shown.
 
 ## Premium Kafra Services
 
-Look for the **Kafra Premium Service** NPC shown below:
+Look for **Kafra Premium Service** shown below:
 
 ![Kafra Premium Service](images/kafra-premium-service.gif)
 
-Premium services are available from the Kafra Premium Service NPC at the following locations:
+Premium services are available from **Kafra Premium Service** at the following locations:
 
 | Town | Coordinates |
 | --- | --- |
