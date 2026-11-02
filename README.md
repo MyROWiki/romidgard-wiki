@@ -1,4 +1,4 @@
-![Return of Midgard Wiki Cover](images/bakbakanro-wiki-cover.png)
+![Return of Midgard Wiki Cover](images/romidgard-wiki-cover.png)
 
 # The Classic pRO Experience Returns
 
