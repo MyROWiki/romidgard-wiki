@@ -1,6 +1,6 @@
 # Server Features
 
-BakbakanRO combines classic Pre-Renewal gameplay with competitive and convenience systems designed for the 99/70 Episode 12 era.
+Return of Midgard combines classic Pre-Renewal gameplay with competitive and convenience systems designed for the 99/70 Episode 12 era.
 
 ## Classic Pre-Renewal
 
