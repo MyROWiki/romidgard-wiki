@@ -1,6 +1,6 @@
 # MVP & PK Maps
 
-BakbakanRO uses **PK-enabled MVP maps** for the Episode 12 era. Players hunting MVPs on the maps below should be prepared for competition from other players as well as the MVP encounter itself.
+Return of Midgard uses **PK-enabled MVP maps** for the Episode 12 era. Players hunting MVPs on the maps below should be prepared for competition from other players as well as the MVP encounter itself.
 
 The list below reflects the current Episode 12 MVP-map configuration.
 
