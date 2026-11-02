@@ -66,6 +66,12 @@ You can ask Dinorah to preview the available clothing colors before using a coup
 | --- | --- |
 | ![](images/dress_m_merchant.bmp) | ![](images/dress_f_merchant.bmp) |
 
+### Novice / Super Novice
+
+| Novice | Super Novice |
+| --- | --- |
+| ![](dress_novice.bmp) | ![](dress_ex_novice.bmp) |
+
 ### Swordsman
 
 | Male | Female |
@@ -78,6 +84,12 @@ You can ask Dinorah to preview the available clothing colors before using a coup
 | --- | --- |
 | ![](images/dress_m_thief.bmp) | ![](images/dress_f_thief.bmp) |
 
+### Taekwon
+
+| Male | Female |
+| --- | --- |
+| ![](dress_m_tk.bmp) | ![](dress_f_tk.bmp) |
+
 ### Gunslinger
 
 ![](images/dress_ex_gunner.bmp)
@@ -85,15 +97,6 @@ You can ask Dinorah to preview the available clothing colors before using a coup
 ### Ninja
 
 ![](images/dress_ex_ninja.bmp)
-
-### Other Supported Preview Classes
-
-Dinorah also supports previews for:
-
-- **Novice / Super Novice**
-- **Taekwon**
-
-Their preview images can be added here once the corresponding image files are available.
 
 ## Important Note After Changing Job
 
