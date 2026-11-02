@@ -18,7 +18,7 @@ While Premium is active, the account receives:
 
 | Item | Preview | Where to Get |
 | --- | --- | --- |
-| **Premium Box** | ![](images/premium-box.png) | Cash Merchant |
+| **Premium Box** | ![](images/item_premium_box.png) | Cash Merchant |
 
 To activate Premium, obtain a **Premium Box** and use the item on your account. The account becomes Premium after the box is used successfully.
 
