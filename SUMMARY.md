@@ -1,6 +1,6 @@
 # Table of Contents
 
-* [The Classic pRO Experience Returns](README.md)
+* [The Classic Experience Returns](README.md)
 * [Server Information](server-information.md)
 * [Getting Started](getting-started.md)
 * [Server Features](server-features.md)
