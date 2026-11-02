@@ -14,7 +14,7 @@ Each supported job class has **three clothing colors** available:
 
 | NPC | Map | Coordinates |
 | --- | --- | --- |
-| Stylist Dinorah Lacostt | `in_orcs01` | `20,109` |
+| Stylist Dinorah Lacostt | Orc Village (`in_orcs01`) | `20,109` |
 | Stylist Dinorah Lacostt | Yuno | `333,108` |
 | Stylist Dinorah Lacostt | Comodo | `167,146` |
 
