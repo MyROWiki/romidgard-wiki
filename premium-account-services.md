@@ -16,11 +16,12 @@ While Premium is active, the account receives:
 
 ## Required Items
 
-| Item | Preview | Where to Get |
-| --- | --- | --- |
-| **Premium Box** | ![](images/item_premium_box.png) | Cash Merchant |
+| Item | Preview | Used For | Where to Get |
+| --- | --- | --- | --- |
+| **Premium Box (30 Days)** | ![](images/item_premium_box.png) | Activates Premium for **30 days** | Cash Merchant |
+| **Premium Box (7 Days)** | ![](images/item_premium_box.png) | Activates Premium for **7 days** | Cash Merchant |
 
-To activate Premium, obtain a **Premium Box** and use the item on your account. The account becomes Premium after the box is used successfully.
+Both Premium Boxes use the same item preview image. To activate Premium, obtain the Premium Box with your preferred duration and use the item on your account. The account becomes Premium after the box is used successfully.
 
 Premium Boxes can be purchased from the **Cash Merchant in Prontera** and from Cash Merchants located in other towns.
 
