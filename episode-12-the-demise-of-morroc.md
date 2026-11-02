@@ -1,6 +1,6 @@
 # Episode 12: The Demise of Morroc
 
-BakbakanRO is centered on **Episode 12: The Demise of Morroc**, the classic Pre-Renewal era before Third Jobs and later-generation progression.
+Return of Midgard is centered on **Episode 12: The Demise of Morroc**, the classic Pre-Renewal era before Third Jobs and later-generation progression.
 
 ## Episode Scope
 
