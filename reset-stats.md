@@ -20,6 +20,10 @@ The Great Alchemist can be found in **Prontera at `155,285`**.
 | --- | --- | --- |
 | **Shard of Odin** | ![](images/premium_reset_stone.png) | Cash Merchant |
 
+## Where to Get
+
+The **Shard of Odin** can be purchased from the **Cash Merchant**.
+
 Purchase enough **Shard of Odin** for your Base Level before visiting The Great Alchemist.
 
 The number of **Shard of Odin** required depends on your **Base Level**.
@@ -66,7 +70,7 @@ This allows you to rebuild your stat distribution without changing your Base Lev
 - **Name:** The Great Alchemist
 - **Location:** Prontera `155,285`
 - **Required Item:** Shard of Odin
-- **Where to Buy:** Cash Merchant
+- **Where to Get:** Cash Merchant
 - **Base Level 1–40:** 1 Shard of Odin
 - **Base Level 41–70:** 2 Shard of Odin
 - **Base Level 71–90:** 3 Shard of Odin
