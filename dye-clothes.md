@@ -68,9 +68,7 @@ You can ask Dinorah to preview the available clothing colors before using a coup
 
 ### Novice / Super Novice
 
-| Novice | Super Novice |
-| --- | --- |
-| ![](dress_novice.bmp) | ![](dress_ex_novice.bmp) |
+![](dress_novice.bmp)
 
 ### Swordsman
 
