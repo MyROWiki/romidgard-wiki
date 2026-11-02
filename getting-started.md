@@ -1,14 +1,14 @@
 # Getting Started
 
-Welcome to BakbakanRO. Follow these steps before beginning your adventure.
+Welcome to Return of Midgard. Follow these steps before beginning your adventure.
 
 ## 1. Create Your Account
 
-Register through the [official website](https://bakbakanro.com/home/member/register). Use a unique password and never share your login information with other players.
+Register through the [official website](https://romidgard.com/home/member/register). Use a unique password and never share your login information with other players.
 
 ## 2. Download the Game
 
-Download the latest official [BakbakanRO client](https://bakbakanro.com/home/download) and install it in its own folder.
+Download the latest official [Return of Midgard client](https://romidgard.com/home/download) and install it in its own folder.
 
 For the best experience:
 
