@@ -1,8 +1,8 @@
-![BakbakanRO Wiki Cover](images/bakbakanro-wiki-cover.png)
+![Return of Midgard Wiki Cover](images/bakbakanro-wiki-cover.png)
 
 # The Classic pRO Experience Returns
 
-Welcome to the **official BakbakanRO Game Wiki** — your player guide for server information, progression, features, and Episode 12 content.
+Welcome to the **official Return of Midgard Game Wiki** — your player guide for server information, progression, features, and Episode 12 content.
 
 **Classic Pre-Renewal • 99/70 • Episode 12: The Demise of Morroc**
 
@@ -10,9 +10,9 @@ The server is built around the classic Ragnarok Online experience, with a focus 
 
 ## Official Links
 
-- [Official Website](https://bakbakanro.com/home)
-- [Community Page](https://bakbakanro.com/home/community)
-- [Discord](https://bakbakanro.com/home/community) — use the Discord link available on the Community page.
+- [Official Website](https://romidgard.com/home)
+- [Community Page](https://romidgard.com/home/community)
+- [Discord](https://romidgard.com/home/community) — use the Discord link available on the Community page.
 
 ## Start Here
 
@@ -76,6 +76,6 @@ The playable world is focused on content available up to Episode 12 and the earl
 
 ## About This Wiki
 
-This wiki is the official player reference for the server. It will continue to expand with detailed guides for classes, maps, dungeons, monsters, MVPs, items, NPCs, PvP, WoE, Premium services, server rules, and other supported systems.
+This wiki is the official player reference for Return of Midgard. It will continue to expand with detailed guides for classes, maps, dungeons, monsters, MVPs, items, NPCs, PvP, WoE, Premium services, server rules, and other supported systems.
 
 Server mechanics may change as development continues. Important changes will be reflected here and through official server announcements.
