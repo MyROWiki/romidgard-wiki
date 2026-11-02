@@ -12,4 +12,4 @@
 * [Claiming Rewards](claiming-rewards.md)
 * [Episode 12: The Demise of Morroc](episode-12-the-demise-of-morroc.md)
 * [MVP & PK Maps](mvp-pk-maps.md)
-* [Download](https://bakbakanro.com/home/download)
+* [Download](https://romidgard.com/home/download)
