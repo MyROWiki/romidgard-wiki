@@ -1,10 +1,10 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: BakbakanRO Wiki
+  title: Return of Midgard Wiki
   structure:
     - type: space
       key: bakbakanro-wiki
-      title: BakbakanRO Wiki
+      title: Return of Midgard Wiki
       path: wiki
       default: true
       content:
