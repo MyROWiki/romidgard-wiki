@@ -2,11 +2,11 @@
 
 **The Great Alchemist** is the Stat Reset NPC in Prontera. He can reset all of your allocated stats back to **1** and return your status points so you can rebuild your character's stat distribution.
 
-![The Great Alchemist NPC](images/4_M_ALCHE_B.gif)
+![The Great Alchemist](images/4_M_ALCHE_B.gif)
 
-## NPC Location
+## Location
 
-| NPC | Map | Coordinates |
+| Name | Map | Coordinates |
 | --- | --- | --- |
 | The Great Alchemist | Prontera | `155,285` |
 
@@ -14,17 +14,13 @@ The Great Alchemist can be found in **Prontera at `155,285`**.
 
 ![The Great Alchemist location in Prontera](images/resetstats_map.jpg)
 
-## Required Item
+## Required Items
 
-| Required Item | Preview |
-| --- | --- |
-| **Shard of Odin** | ![](images/premium_reset_stone.png) |
+| Item | Preview | Where to Get |
+| --- | --- | --- |
+| **Shard of Odin** | ![](images/premium_reset_stone.png) | Cash Merchant |
 
-## Where to Get a Shard of Odin
-
-The **Shard of Odin** can be purchased from the **Cash Merchant**.
-
-Purchase enough Shard of Odin items for your Base Level before visiting The Great Alchemist.
+Purchase enough **Shard of Odin** for your Base Level before visiting The Great Alchemist.
 
 The number of **Shard of Odin** required depends on your **Base Level**.
 
@@ -67,7 +63,7 @@ This allows you to rebuild your stat distribution without changing your Base Lev
 
 ## Quick Reference
 
-- **NPC:** The Great Alchemist
+- **Name:** The Great Alchemist
 - **Location:** Prontera `155,285`
 - **Required Item:** Shard of Odin
 - **Where to Buy:** Cash Merchant
