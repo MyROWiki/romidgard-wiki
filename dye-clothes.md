@@ -2,6 +2,8 @@
 
 **Stylist Dinorah Lacostt** can change your character's clothing color using Clothing Dye Coupons.
 
+![Stylist Dinorah Lacostt](images/4_F_LGTGIRL.gif)
+
 Each supported job class has **three clothing colors** available:
 
 - **Original Dye** — restores the default clothing color
@@ -18,12 +20,12 @@ Each supported job class has **three clothing colors** available:
 
 ## Required Items
 
-| Item | Used For | Where to Get |
-| --- | --- | --- |
-| **Original Clothing Dye Coupon** | Restore your original clothing color | Cash Merchant |
-| **New Clothing Dye Coupon** | Apply Option 1 or Option 2 | Cash Merchant |
+| Item | Preview | Used For | Where to Get |
+| --- | --- | --- | --- |
+| **Original Clothing Dye Coupon** | ![](images/item_dye_coupon.png) | Restore your original clothing color | Cash Merchant |
+| **New Clothing Dye Coupon** | ![](images/item_dye_coupon.png) | Apply Option 1 or Option 2 | Cash Merchant |
 
-Each successful dye change consumes **1 coupon**.
+Both coupon types use the same item preview image. Each successful dye change consumes **1 coupon**.
 
 ## How It Works
 
@@ -40,20 +42,58 @@ Each successful dye change consumes **1 coupon**.
 
 You can ask Dinorah to preview the available clothing colors before using a coupon.
 
-The preview menu supports these class groups:
+### Acolyte
 
-- Acolyte
-- Archer
-- Mage
-- Merchant
-- Novice / Super Novice
-- Swordsman
-- Thief
-- Taekwon
-- Gunslinger
-- Ninja
+| Male | Female |
+| --- | --- |
+| ![](images/dress_m_acolyte.bmp) | ![](images/dress_f_acolyte.bmp) |
 
-Class preview images will be added to this guide using the in-game dye previews.
+### Archer
+
+| Male | Female |
+| --- | --- |
+| ![](images/dress_m_archer.bmp) | ![](images/dress_f_archer.bmp) |
+
+### Mage
+
+| Male | Female |
+| --- | --- |
+| ![](images/dress_m_masician.bmp) | ![](images/dress_f_masician.bmp) |
+
+### Merchant
+
+| Male | Female |
+| --- | --- |
+| ![](images/dress_m_merchant.bmp) | ![](images/dress_f_merchant.bmp) |
+
+### Swordsman
+
+| Male | Female |
+| --- | --- |
+| ![](images/dress_m_swordman.bmp) | ![](images/dress_f_swordman.bmp) |
+
+### Thief
+
+| Male | Female |
+| --- | --- |
+| ![](images/dress_m_thief.bmp) | ![](images/dress_f_thief.bmp) |
+
+### Gunslinger
+
+![](images/dress_ex_gunner.bmp)
+
+### Ninja
+
+![](images/dress_ex_ninja.bmp)
+
+### Other Supported Preview Classes
+
+Dinorah also supports previews for:
+
+- **Novice / Super Novice**
+- **Taekwon**
+
+Their preview images can be added here once the corresponding image files are available.
 
 ## Important Note After Changing Job
 
