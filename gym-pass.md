@@ -2,11 +2,11 @@
 
 **Ripped Cabus** is a carrying-capacity training NPC in Prontera. Training with him increases your character's item carrying capacity.
 
-![Ripped Cabus NPC](images/gympass_npc_sprte.gif)
+![Ripped Cabus](images/gympass_npc_sprte.gif)
 
-## NPC Location
+## Location
 
-| NPC | Map | Coordinates |
+| Name | Map | Coordinates |
 | --- | --- | --- |
 | Ripped Cabus | Prontera | `150,280` |
 
@@ -14,21 +14,15 @@ Ripped Cabus can be found in **Prontera at `150,280`**.
 
 ![Ripped Cabus location in Prontera](images/gympass_map.jpg)
 
-## What You Need
+## Required Items
 
-| Required Item | Preview |
-| --- | --- |
-| **Gym Membership Card** | ![](images/gym_membership_card.bmp) |
+| Item | Preview | Where to Get |
+| --- | --- | --- |
+| **Gym Membership Card** | ![](images/gym_membership_card.bmp) | Cash Merchant |
 
 Bring **1 Gym Membership Card** each time you want to increase your carrying-capacity training level.
 
 Each successful training session consumes **1 Gym Membership Card**.
-
-## Where to Get a Gym Membership Card
-
-The **Gym Membership Card** can be purchased from the **Cash Merchant**.
-
-Purchase a **Gym Membership Card** before visiting Ripped Cabus if you want to increase your carrying-capacity training.
 
 ## How It Works
 
@@ -62,7 +56,7 @@ If the character has never trained with Ripped Cabus before, there is no previou
 
 ## Quick Reference
 
-- **NPC:** Ripped Cabus
+- **Name:** Ripped Cabus
 - **Location:** Prontera `150,280`
 - **Required Item:** Gym Membership Card
 - **Where to Buy:** Cash Merchant
