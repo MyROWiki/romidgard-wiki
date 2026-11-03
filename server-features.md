@@ -82,12 +82,6 @@ See [MVP & PK Maps](mvp-pk-maps.md) for the current Episode 12 MVP-map list.
 
 Players can test builds, equipment, and teamwork through supported PvP environments and ranking systems.
 
-## Battlegrounds
-
-**Battlegrounds is an Episode 12 feature, but it is currently disabled on the server.**
-
-Battlegrounds queues, maps, NPC access, and related rewards are not currently available. If the feature is enabled in the future, the server wiki will be updated with the appropriate gameplay and access information.
-
 ## War of Emperium
 
 ### Current Schedule
