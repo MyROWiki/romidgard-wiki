@@ -1,6 +1,8 @@
 ![Return of Midgard Wiki Cover](images/romidgard-wiki-cover.png)
 
-# The Classic Experience Returns
+# Return of Midgard Wiki
+
+**The Classic Experience Returns**
 
 **Return of Midgard** was created to bring back the memories and atmosphere of the classic **Philippine Ragnarok Online (pRO)** era, focusing on **Episode 12: The Demise of Morroc**.
 
@@ -8,28 +10,34 @@ Our goal is to recreate the familiar experience remembered by many players from 
 
 Return of Midgard is not simply about playing an old version of Ragnarok Online. It is about revisiting the memories, friendships, rivalries, and experiences that made the classic pRO era special.
 
-**Classic Pre-Renewal • 99/70 • Episode 12: The Demise of Morroc**
+> **Classic Pre-Renewal • 99/70 • Episode 12: The Demise of Morroc**
 
-## Official Links
+## 🔗 Quick Links
 
-- [Official Website](https://romidgard.com/home)
-- [Community Page](https://romidgard.com/home/community)
-- [Discord](https://romidgard.com/home/community) — use the Discord link available on the Community page.
+- 🌐 [Official Website](https://romidgard.com/home)
+- 📝 [Create an Account](https://romidgard.com/home/member/register)
+- ⬇️ [Download the Game](https://romidgard.com/home/download)
+- 💬 [Join the Discord](https://romidgard.com/home/community/discord)
 
-## Start Here
+## ✨ New Adventurer?
+
+Start with these guides if you are new to Return of Midgard:
+
+- [Getting Started](getting-started.md) — account creation, client setup, patching, and your first steps in Rune-Midgard.
+- [Server Information](server-information.md) — rates, level limits, classes, drop settings, and core gameplay rules.
+
+## 🧭 Explore the Wiki
 
 | Guide | What you'll find |
 | --- | --- |
-| [Server Information](server-information.md) | Core rates, level limits, class availability, and gameplay settings |
-| [Getting Started](getting-started.md) | Account, client, patching, first login, and beginner steps |
-| [Server Features](server-features.md) | PvP, WoE, MVP hunting, rankings, events, and player services |
-| [NPC & Services](npc-services.md) | NPC locations, requirements, and guides for useful player services |
-| [Premium Account Services](premium-account-services.md) | Premium benefits, activation, notifications, Kafra Premium services, and NPC locations |
-| [Claiming Rewards](claiming-rewards.md) | Event and server reward claiming through Bunny Corp. Staff (Wendy) |
-| [Episode 12: The Demise of Morroc](episode-12-the-demise-of-morroc.md) | Episode scope, item/drop rules, maps, Satan Morroc, and related content |
-| [MVP & PK Maps](mvp-pk-maps.md) | Current Episode 12 MVP maps where PK is enabled |
+| [NPC & Services](npc-services.md) | Useful NPCs, service locations, requirements, and item needs |
+| [Server Features](server-features.md) | Classic client features, PvP, WoE, MVP hunting, rankings, and server systems |
+| [Episode 12: The Demise of Morroc](episode-12-the-demise-of-morroc.md) | Episode scope, maps, drops, and classic-era content |
+| [MVP & PK Maps](mvp-pk-maps.md) | Current MVP maps where PK is enabled |
+| [Premium Account Services](premium-account-services.md) | Premium benefits, activation, and supported services |
+| [Claiming Rewards](claiming-rewards.md) | How to claim server and event rewards |
 
-## Server at a Glance
+## ⚙️ Server at a Glance
 
 | Setting | Value |
 | --- | --- |
@@ -45,39 +53,22 @@ Return of Midgard is not simply about playing an old version of Ragnarok Online.
 | Classes | Transcendent + classic Expanded classes |
 | Current Episode | Episode 12: The Demise of Morroc |
 
-## Permanently Free-to-Play & Ready for Action
+## 🎮 Permanently Free-to-Play
 
-The server is **permanently free-to-play** and is designed to help players get ready for PvP, War of Emperium, and MVP hunting without spending excessive time preparing basic equipment and supplies.
+Return of Midgard is **permanently free-to-play** and is designed to help players get ready for PvP, War of Emperium, MVP hunting, testing builds, and exploring the classic world without unnecessary preparation.
 
-- Players receive **free Zeny** to purchase the equipment and supplies they need.
-- In-game shops offer **Armor, equipment, Cards, Headgears, Potions, consumables, supplies, and other essentials** that can be purchased using Zeny.
-- A **Job Changer NPC** is available for faster class progression.
-- **Miracle Tonic** can be purchased in-game and used as needed to quickly reach the maximum Base Level of **99**.
-
-The goal is simple: spend less time preparing and more time testing builds, fighting in PvP, joining WoE, and hunting MVPs.
+Players receive **free Zeny**, while in-game shops provide equipment, cards, headgears, potions, consumables, supplies, and other essentials. A **Job Changer NPC** and **Miracle Tonic** are also available to help characters prepare faster.
 
 Premium is an optional account-wide service and is **not required to access the core game**.
 
-## Classic Ragnarok Experience
+## 🔥 Episode 12: The Demise of Morroc
 
-The server keeps progression centered on the classic era. Players can advance through regular and Transcendent class paths, with classic Expanded options including **Super Novice, Taekwon Kid, Soul Linker, Taekwon Master, Ninja, and Gunslinger**.
-
-Third Jobs and later-era advanced class progression are not part of the server's Episode 12 setting.
-
-Whether your goal is leveling, farming equipment and cards, hunting MVPs, building for PvP, or competing in War of Emperium, this wiki is intended to be the official reference for the systems available on the server.
-
-## Current Episode
-
-### Episode 12: The Demise of Morroc
-
-The world has reached the era of **The Demise of Morroc**, where the destruction surrounding Morroc and the threat of **Satan Morroc** define one of classic Ragnarok Online's major story periods.
-
-The playable world is focused on content available up to Episode 12 and the earlier episodes leading into it. Selected headgears, Cash Shop items, and Cash Box items may include content up to Episode 13 without changing the server's main Episode 12 progression.
+Return of Midgard is centered on the classic **Episode 12** era before Third Jobs and later-generation progression. The playable world focuses on content available up to Episode 12 and the earlier episodes leading into it.
 
 [Read the Episode 12 overview →](episode-12-the-demise-of-morroc.md)
 
-## About This Wiki
+## 📖 About This Wiki
 
-This wiki is the official player reference for Return of Midgard. It will continue to expand with detailed guides for classes, maps, dungeons, monsters, MVPs, items, NPCs, PvP, WoE, Premium services, server rules, and other supported systems.
+This wiki is the official player reference for **Return of Midgard**. It will continue to expand with guides for classes, maps, dungeons, monsters, MVPs, items, NPCs, PvP, WoE, Premium services, server rules, and other supported systems.
 
 Server mechanics may change as development continues. Important changes will be reflected here and through official server announcements.
