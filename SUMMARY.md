@@ -14,4 +14,6 @@
   * [Server Features](server-features.md)
   * [Episode 12: The Demise of Morroc](episode-12-the-demise-of-morroc.md)
   * [MVP & PK Maps](mvp-pk-maps.md)
+  * [Disabled & Unsupported Content](disabled-unsupported-content.md)
+  * [Differences from Other Servers](differences-from-other-servers.md)
 * [🎁 Claiming Rewards](claiming-rewards.md)
