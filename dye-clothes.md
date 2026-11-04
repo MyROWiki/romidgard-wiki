@@ -84,9 +84,7 @@ You can ask Dinorah to preview the available clothing colors before using a coup
 
 ### Taekwon
 
-| Male | Female |
-| --- | --- |
-| ![](dress_m_tk.bmp) | ![](dress_f_tk.bmp) |
+![](dress_m_tk.bmp)
 
 ### Gunslinger
 
