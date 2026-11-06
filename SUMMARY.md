@@ -5,6 +5,7 @@
   * [Server Information](server-information.md)
 * [🚀 Getting Started](getting-started.md)
   * [Download the Game](https://romidgard.com/home/download)
+* [📝 Patch Notes](patch-notes.md)
 * [🧭 NPC & Services](npc-services.md)
   * [Gym Pass — Ripped Cabus](gym-pass.md)
   * [Reset Stats — The Great Alchemist](reset-stats.md)
