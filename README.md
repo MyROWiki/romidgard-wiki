@@ -17,7 +17,8 @@ Return of Midgard is not simply about playing an old version of Ragnarok Online.
 - 🌐 [Official Website](https://romidgard.com/home)
 - 📝 [Create an Account](https://romidgard.com/home/member/register)
 - ⬇️ [Download the Game](https://romidgard.com/home/download)
-- 💬 [Join the Discord](https://romidgard.com/home/community/discord)
+- 💬 [Join the Discord](https://romidgard.com/discord)
+- 📘 [Follow us on Facebook](https://romidgard.com/facebook)
 
 ## ✨ New Adventurer?
 
