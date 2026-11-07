@@ -94,4 +94,4 @@ In classic Ragnarok Online, **monsters do not display a visible HP bar**. Return
 
 | Old RO — Return of Midgard (No HP Bar) | New UI — Other Servers (With HP Bar) |
 | --- | --- |
-| ![Old Ragnarok monster without HP bar](old_ui_monster_hp_bar.jpg) | ![New Ragnarok monster with HP bar](new_ui_monster_hp_bar.jpg) |
+| ![Old Ragnarok monster without HP bar](images/old_ui_monster_hp_bar.jpg) | ![New Ragnarok monster with HP bar](images/new_ui_monster_hp_bar.jpg) |
