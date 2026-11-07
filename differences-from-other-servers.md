@@ -64,7 +64,9 @@ Return of Midgard preserves a classic Ragnarok Online interface inspired by the 
 | --- | --- |
 | ![Old Chat Window](images/old_ui_chat.jpg) | ![New Chat Window](images/new_ui_chat.jpg) |
 
-**Old UI — Battle Mode On**
+**Old Chat UI — Battle Mode (`/bm`) On**
+
+When Battle Mode (`/bm`) is enabled, the **Old Chat UI changes its appearance**. This additional screenshot shows the Old UI only; it is not a separate Old UI vs New UI comparison.
 
 ![Old Chat UI with Battle Mode enabled](images/old_ui_chat_bm_on.jpg)
 
