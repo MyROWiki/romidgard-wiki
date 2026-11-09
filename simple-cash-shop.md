@@ -10,6 +10,20 @@ In **Return of Midgard**, Cash Shop purchases use **RoK Points**. The main diffe
 
 This is the **Simple Cash Shop** interface used in Return of Midgard, preserving the familiar pRO-era design instead of the newer Cash Shop window.
 
+## How to Access the Simple Cash Shop
+
+The **Simple Cash Shop icon** is located in the **upper-right corner of your game screen, near the minimap**.
+
+![Simple Cash Shop icon near the minimap](images/cashon.bmp)
+
+1. Look for the **Simple Cash Shop icon** near the minimap in the upper-right corner.
+2. **Click the icon** to open the Simple Cash Shop.
+3. Browse the available items and purchase the ones you want using your **RoK Points**.
+
+You can access the Simple Cash Shop **from anywhere on supported maps**, so you do not have to visit a specific NPC to buy Cash Shop items.
+
+> **Note:** The Simple Cash Shop is **disabled on certain maps**. When you are on one of these maps, the icon **cannot be clicked**, and the Cash Shop cannot be opened there. To use it, move to a map where the Simple Cash Shop is enabled.
+
 ### Simple Cash Shop vs Modern Cash Shop
 
 | Return of Midgard | Newer Ragnarok Clients |
