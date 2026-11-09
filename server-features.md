@@ -55,6 +55,8 @@ For added account protection, the server supports a **Kafra Storage Password** s
 
 ![Kafra Storage Password preview](images/kafra-password-preview.jpg)
 
+For the PIN lockout rules and password-reset instructions, see [Kafra Storage Password](kafra-storage-password.md).
+
 ### Simple Cash Shop
 
 The server also includes a **Simple Cash Shop** interface that matches the straightforward and familiar style many players remember from old pRO.

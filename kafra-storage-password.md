@@ -1,14 +1,4 @@
-# Classic Client Features
-
-## Monster HP Bar
-
-In classic Ragnarok Online, **monsters do not display a visible HP bar**. Return of Midgard follows this old-style presentation, while some newer clients and private servers show a Monster HP Bar above monsters.
-
-| Old RO — Return of Midgard (No HP Bar) | New UI — Other Servers (With HP Bar) |
-| --- | --- |
-| ![Old Ragnarok monster without HP bar](images/old_ui_monster_hp_bar.jpg) | ![New Ragnarok monster with HP bar](images/new_ui_monster_hp_bar.jpg) |
-
-## Kafra Storage Password
+# Kafra Storage Password
 
 Return of Midgard retains the **classic Kafra Storage Password** system familiar to players from the old **Philippine Ragnarok Online (pRO)** era. This additional password helps protect access to a player's personal Kafra Storage and preserves a feature that is not commonly seen in many newer private-server clients.
 
@@ -31,8 +21,8 @@ The classic pRO-style password uses a **numeric PIN**. Please follow the accepte
 
 You can reset your Kafra Storage Password using the **[Return of Midgard website](https://romidgard.com/)**:
 
-1. Visit the official website.
-2. Click **Reset Kafra Storage Password**.
+1. Visit the official website and **log in to your game account**.
+2. After logging in, click **Reset Kafra Storage Password**.
 3. Follow the on-screen instructions to request a reset.
 4. Check the **email address registered to your game account**. A password-reset link will be sent there.
 5. Open the link and complete the reset instructions.

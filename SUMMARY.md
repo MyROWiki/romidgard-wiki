@@ -20,5 +20,6 @@
     * [Classic UI vs Modern UI](classic-ui-vs-modern-ui.md)
     * [Gameplay & Mechanics](gameplay-and-mechanics.md)
     * [Items & NPC Shops](items-and-npc-shops.md)
-    * [Classic Client Features](classic-client-features.md)
+    * [Kafra Storage Password](kafra-storage-password.md)
+    * [Monster HP Bar](monster-hp-bar.md)
 * [🎁 Claiming Rewards](claiming-rewards.md)
