@@ -17,4 +17,8 @@
   * [MVP & PK Maps](mvp-pk-maps.md)
   * [Disabled & Unsupported Content](disabled-unsupported-content.md)
   * [Differences from Other Servers](differences-from-other-servers.md)
+    * [Classic UI vs Modern UI](classic-ui-vs-modern-ui.md)
+    * [Gameplay & Mechanics](gameplay-and-mechanics.md)
+    * [Items & NPC Shops](items-and-npc-shops.md)
+    * [Classic Client Features](classic-client-features.md)
 * [🎁 Claiming Rewards](claiming-rewards.md)
