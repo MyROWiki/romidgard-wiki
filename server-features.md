@@ -63,6 +63,8 @@ The server also includes a **Simple Cash Shop** interface that matches the strai
 
 ![Simple Cash Shop preview](images/simple-cash-shop-preview.jpg)
 
+See [Simple Cash Shop](simple-cash-shop.md) for more about its classic pRO-style interface.
+
 ## Classic & Expanded Classes
 
 Alongside the regular and Transcendent class paths, the server supports:
