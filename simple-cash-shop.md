@@ -1,19 +1,23 @@
 # Simple Cash Shop
 
-Return of Midgard uses the **classic Simple Cash Shop interface** familiar to players of the old **Philippine Ragnarok Online (pRO)**. Rather than replacing it with a more modern Cash Shop layout, the server keeps the straightforward window design to preserve the nostalgic look and feel of the original game.
+Return of Midgard uses the **Simple Cash Shop** interface familiar to players of the old **Philippine Ragnarok Online (pRO)**. It is the classic counterpart of the **Cash Shop** found in newer Ragnarok clients: both serve the purpose of buying Cash Shop items.
+
+In **Return of Midgard**, Cash Shop purchases use **RoK Points**. The main difference highlighted here is the **appearance and layout of the Cash Shop window**, not its purpose.
 
 ## Classic pRO-Style Cash Shop
 
 ![Simple Cash Shop interface in Return of Midgard](images/simple-cash-shop-preview.jpg)
 
-This screenshot shows the **Simple Cash Shop** interface used in Return of Midgard.
+This is the **Simple Cash Shop** interface used in Return of Midgard, preserving the familiar pRO-era design instead of the newer Cash Shop window.
 
-### What Makes It Different?
+### Simple Cash Shop vs Modern Cash Shop
 
-- **Classic interface:** A simple, familiar Cash Shop layout inspired by the old pRO experience.
-- **Old-school presentation:** Keeps the original-style look instead of adopting newer client Cash Shop windows.
-- **Separate from NPC item shops:** This section is about the **Cash Shop interface**, not the regular NPC shops used for equipment, cards, headgears, or supplies.
+| Return of Midgard | Newer Ragnarok Clients |
+| --- | --- |
+| Classic **Simple Cash Shop** interface inspired by old pRO | Newer **Cash Shop** interface |
+| Purchases use **RoK Points** | Cash Shop currency depends on the server |
+| Traditional, simpler window design | More modern window design |
 
-Other Ragnarok servers may use different Cash Shop interfaces depending on their client version and customizations.
+**Important:** The Simple Cash Shop is **not** a separate NPC Item Shop. Regular NPC shops, where players can buy equipment and supplies with Zeny, are different from the Cash Shop.
 
-For an overview of other nostalgic features, see [Server Features](server-features.md#simple-cash-shop).
+For a general overview, see [Server Features](server-features.md#simple-cash-shop).

@@ -59,7 +59,7 @@ For the PIN lockout rules and password-reset instructions, see [Kafra Storage Pa
 
 ### Simple Cash Shop
 
-The server also includes a **Simple Cash Shop** interface that matches the straightforward and familiar style many players remember from old pRO.
+The server uses the classic pRO-style **Simple Cash Shop**, the equivalent of the **Cash Shop** interface in newer Ragnarok clients. Cash Shop items are purchased using **RoK Points** in Return of Midgard; the difference is the old-school interface, not a separate shop type.
 
 ![Simple Cash Shop preview](images/simple-cash-shop-preview.jpg)
 
