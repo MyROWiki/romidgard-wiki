@@ -1,5 +1,7 @@
 # 📝 Patch Notes
 
-No patch notes have been published yet. Check back here for future updates.
+## November 2026
+
+- **2026-11-10** — [Patch Notes Sync Test](patch-notes-entries/2026-11-10-patch-notes-sync-test.md)
 
 New patch notes will appear in this menu and will also be announced in the RO Midgard Discord **#patch-notes** channel.
