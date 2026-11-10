@@ -8,6 +8,7 @@
 * [📝 Patch Notes](patch-notes.md)
   * [Browse Patch Notes](patch-notes-menu.md)
     * [2026-11-10 — Patch Notes Sync Test](patch-notes-entries/2026-11-10-patch-notes-sync-test.md)
+    * [2026-11-09 — Second Patch Notes Sync Test](patch-notes-entries/2026-11-09-second-patch-notes-sync-test.md)
 * [🧭 NPC & Services](npc-services.md)
   * [Gym Pass — Ripped Cabus](gym-pass.md)
   * [Reset Stats — The Great Alchemist](reset-stats.md)
