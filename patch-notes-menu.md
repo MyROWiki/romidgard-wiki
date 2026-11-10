@@ -1,12 +1,5 @@
 # 📝 Patch Notes
 
-## November 2026
-
-- **2026-11-10** — [Patch Notes Sync Test](patch-notes-entries/2026-11-10-patch-notes-sync-test.md)
-- **2026-11-09** — [Second Patch Notes Sync Test](patch-notes-entries/2026-11-09-second-patch-notes-sync-test.md)
-- **2026-11-08** — [Multi-Date Patch Notes Test](patch-notes-entries/2026-11-08-multi-date-patch-notes-test.md)
-- **2026-11-07** — [Fourth Patch Notes Sync Speed Test](patch-notes-entries/2026-11-07-fourth-patch-notes-sync-speed-test.md)
-- **2026-11-06** — [GitHub–Discord Webhook Speed Test](patch-notes-entries/2026-11-06-github-discord-webhook-speed-test.md)
-- **2026-11-05** — [Sixth Webhook Delivery Speed Test](patch-notes-entries/2026-11-05-sixth-webhook-delivery-speed-test.md)
+No patch notes have been published yet. Check back here for future updates.
 
 New patch notes will appear in this menu and will also be announced in the RO Midgard Discord **#patch-notes** channel.
