@@ -1,12 +1,5 @@
 # 📝 Patch Notes
 
-Welcome to the **Return of Midgard Patch Notes**. Select an update below to read its details. Newest updates appear first.
+No patch notes have been published yet. Check back here for future updates.
 
-## November 2026
-
-- **2026-11-10** — [Announcement Integration Test (Edited Title)](patch-notes-entries/2026-11-10-announcement-integration-test.md)
-- **2026-11-10** — [New Patch Notes Test](patch-notes-entries/2026-11-10-new-patch-notes-test.md)
-
-These are **synchronization test entries only**; no gameplay changes were made.
-
-Patch note announcements are also synchronized to the RO Midgard Discord **#patch-notes** channel.
+New patch notes will appear in this menu and will also be announced in the RO Midgard Discord **#patch-notes** channel.
