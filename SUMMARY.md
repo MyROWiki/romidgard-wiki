@@ -14,6 +14,7 @@
   * [Premium Account Services](premium-account-services.md)
 * [⚔️ Game Information](game-information.md)
   * [Server Features](server-features.md)
+  * [Official Behavior & Server Customizations](official-behavior-and-customizations.md)
   * [Episode 12: The Demise of Morroc](episode-12-the-demise-of-morroc.md)
   * [MVP & PK Maps](mvp-pk-maps.md)
   * [Disabled & Unsupported Content](disabled-unsupported-content.md)

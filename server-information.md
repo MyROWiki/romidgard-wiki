@@ -4,6 +4,12 @@ Return of Midgard is a **classic Pre-Renewal Ragnarok Online server** built arou
 
 The server is **permanently free-to-play**, with optional Premium services available for additional convenience.
 
+## Official Behavior & Customization Policy
+
+Return of Midgard follows a **strict approach to customization**. We aim to preserve classic Pre-Renewal gameplay and official-style behavior, avoiding unnecessary changes to core mechanics. Where we intentionally adjust the server—such as **non-MVP drop rates, free Zeny, NPC shops, and convenience services**—we document those differences openly.
+
+See [Official Behavior & Server Customizations](official-behavior-and-customizations.md) for the full policy and customization list.
+
 ## Core Settings
 
 | Setting | Value |

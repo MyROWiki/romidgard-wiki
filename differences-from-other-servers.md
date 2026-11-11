@@ -4,6 +4,7 @@ Return of Midgard preserves many elements of the classic Philippine Ragnarok Onl
 
 ## Browse by Topic
 
+- [**Official Behavior & Server Customizations**](official-behavior-and-customizations.md) — what we preserve from classic Ragnarok and which settings or convenience features are intentionally customized.
 - [**Classic UI vs Modern UI**](classic-ui-vs-modern-ui.md) — side-by-side screenshots of login, character, status, inventory, chat, and other interfaces.
 - [**Gameplay & Mechanics**](gameplay-and-mechanics.md) — official PK behavior, ATK and DEF display, and guild/party limits *(details coming soon)*.
 - [**Items & NPC Shops**](items-and-npc-shops.md) — regular monster drops, MVP rewards, and official quest headgears.

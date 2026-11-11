@@ -5,6 +5,7 @@ Explore the main gameplay information for **Return of Midgard** and its Episode 
 ## Guides
 
 - [Server Features](server-features.md) — classic client features, PvP, WoE, MVP hunting, rankings, and supported systems.
+- [Official Behavior & Server Customizations](official-behavior-and-customizations.md) — our approach to preserving classic mechanics and the clearly documented server adjustments.
 - [Episode 12: The Demise of Morroc](episode-12-the-demise-of-morroc.md) — episode scope, maps, monster-drop direction, and classic-era content.
 - [MVP & PK Maps](mvp-pk-maps.md) — the current list of MVP maps where PK is enabled.
 - [Disabled & Unsupported Content](disabled-unsupported-content.md) — features, systems, behaviors, or content that are currently disabled or unsupported.
