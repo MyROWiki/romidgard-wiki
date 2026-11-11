@@ -38,6 +38,16 @@ These are the main differences players should know about:
 
 The **90% non-MVP drop setting**, free Zeny, NPC shops, convenience NPCs, and optional services are deliberate server adjustments. **x1 EXP and x1 MVP drops** are listed for clarity, but are not boosted rates.
 
+### Rates Under Review
+
+The rates currently published in this Wiki are **provisional where noted and subject to change** as we review the server's final drop settings.
+
+- **MVP Drop Rate: x1 — Confirmed.**
+- **Mini-Boss Drop Rate: Under Review.**
+- **Normal Monster Drop Rate: Under Review** (currently listed as 90%).
+
+Until an official change is announced, the rates already published in this Wiki remain the reference for the current server settings. Any finalized adjustments will be announced and documented here.
+
 ## Important Exceptions & Boundaries
 
 - **MVP-exclusive drops are not sold in NPC shops.** If an item is also obtainable from a regular monster, it may still appear in a shop; items exclusive to MVPs remain hunting rewards.

@@ -35,6 +35,16 @@ Normal non-MVP monster drops are set to **90%**.
 
 **MVP default drops remain at x1** and are not changed to the 90% non-MVP rate.
 
+### Rates Under Review
+
+The rates currently published in this Wiki are **provisional where noted and subject to change** as we review the server's final drop settings.
+
+- **MVP Drop Rate: x1 — Confirmed.**
+- **Mini-Boss Drop Rate: Under Review.**
+- **Normal Monster Drop Rate: Under Review** (currently listed as 90%).
+
+Until an official change is announced, the rates already published in this Wiki remain the reference for the current server settings. Any finalized adjustments will be announced and documented here.
+
 ## Free-to-Play Access
 
 The server is designed so players can prepare for competitive and end-game activities without needing to purchase basic equipment or supplies with real money.
