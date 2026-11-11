@@ -7,7 +7,6 @@
   * [Download the Game](https://romidgard.com/home/download)
 * [📝 Patch Notes](patch-notes.md)
   * [Browse Patch Notes](patch-notes-menu.md)
-    * [2026-11-11 — Patch Notes Sync Test](patch-notes-entries/2026-11-11-patch-notes-sync-test.md)
 * [🧭 NPC & Services](npc-services.md)
   * [Gym Pass — Ripped Cabus](gym-pass.md)
   * [Reset Stats — The Great Alchemist](reset-stats.md)
