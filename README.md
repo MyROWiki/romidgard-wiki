@@ -16,7 +16,7 @@ Return of Midgard is not simply about playing an old version of Ragnarok Online.
 
 - 🌐 [Official Website](https://romidgard.com/home)
 - 📝 [Create an Account](https://romidgard.com/home/member/register)
-- ⬇️ [Download the Game](https://romidgard.com/home/download)
+- ⬇️ [Download the Game](https://romidgard.com/home/download) — **PC only; Android and iOS are not supported.**
 - 💬 [Join the Discord](https://romidgard.com/discord)
 - 📘 [Follow us on Facebook](https://romidgard.com/facebook)
 
@@ -43,6 +43,7 @@ Start with these guides if you are new to Return of Midgard:
 | Setting | Value |
 | --- | --- |
 | Game Type | Pre-Renewal |
+| Supported Platform | **PC only (no mobile support)** |
 | Maximum Level | 99/70 |
 | Maximum Stat | 99 |
 | Maximum ASPD | 190 |

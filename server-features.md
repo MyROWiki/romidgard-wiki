@@ -2,6 +2,12 @@
 
 Return of Midgard combines classic Pre-Renewal gameplay with competitive and convenience systems designed for the 99/70 Episode 12 era.
 
+## PC-Only Platform
+
+**Return of Midgard is a PC-only Ragnarok Online server.** There is no supported Android or iOS game client, so playing on a phone or tablet is not supported.
+
+See [Getting Started](getting-started.md) for PC installation and patching instructions.
+
 ## Classic Pre-Renewal
 
 - Maximum Base / Job Level: 99/70

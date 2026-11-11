@@ -15,6 +15,7 @@ See [Official Behavior & Server Customizations](official-behavior-and-customizat
 | Setting | Value |
 | --- | --- |
 | Game Type | Pre-Renewal |
+| Supported Platform | **PC only** |
 | Maximum Base Level | 99 |
 | Maximum Job Level | 70 |
 | Maximum Stat | 99 |
@@ -29,6 +30,12 @@ See [Official Behavior & Server Customizations](official-behavior-and-customizat
 | MVP Maps | PK enabled |
 | Battlegrounds | Currently disabled |
 | Costume Items | **Not available** |
+
+## Platform Support
+
+**Return of Midgard is available for PC only.** Mobile devices, including Android phones and iPhones, are **not supported**. There is no official Android or iOS game client.
+
+For installation instructions, see [Getting Started](getting-started.md).
 
 ## Drop Settings
 

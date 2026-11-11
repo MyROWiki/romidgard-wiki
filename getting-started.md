@@ -2,13 +2,15 @@
 
 Welcome to Return of Midgard. Follow these steps before beginning your adventure.
 
+> **PC ONLY:** Return of Midgard supports PC gameplay only. There is **no official Android or iOS client**, and mobile devices are not supported.
+
 ## 1. Create Your Account
 
 Register through the [official website](https://romidgard.com/home/member/register). Use a unique password and never share your login information with other players.
 
 ## 2. Download the Game
 
-Download the latest official [Return of Midgard client](https://romidgard.com/home/download) and install it in its own folder.
+Download the latest official **PC client** from [Return of Midgard Downloads](https://romidgard.com/home/download) and install it in its own folder. The download is **not available for mobile play**.
 
 For the best experience:
 
