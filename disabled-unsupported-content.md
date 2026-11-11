@@ -1,5 +1,9 @@
 # Disabled & Unsupported Content
 
+## Costume Items
+
+**Costume items and costume equipment are not available in Return of Midgard.** Regular headgears and equipment remain available through their usual in-game sources, but they are not costume items. This keeps the server focused on the classic Pre-Renewal equipment experience.
+
 ## Battlegrounds
 
 **Battlegrounds is an Episode 12 feature, but it is currently disabled on the server.**

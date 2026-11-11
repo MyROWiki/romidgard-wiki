@@ -28,6 +28,7 @@ See [Official Behavior & Server Customizations](official-behavior-and-customizat
 | Classes | Transcendent + classic Expanded classes |
 | MVP Maps | PK enabled |
 | Battlegrounds | Currently disabled |
+| Costume Items | **Not available** |
 
 ## Drop Settings
 

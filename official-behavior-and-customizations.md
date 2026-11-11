@@ -35,6 +35,7 @@ These are the main differences players should know about:
 | **Premium service** | **Optional** | Account-wide progression and convenience benefits; not required for core gameplay. |
 | **Simple Cash Shop** | **Classic pRO-style interface using RoK Points** | An in-game cash shop distinct from the regular Zeny NPC shops. |
 | **Kafra Storage Password** | **Available** | Adds classic-style storage protection. |
+| **Costume Items / Costume Headgears** | **Not available** | The server uses classic equipment and appearance; regular headgears are not costume items. |
 
 The **90% non-MVP drop setting**, free Zeny, NPC shops, convenience NPCs, and optional services are deliberate server adjustments. **x1 EXP and x1 MVP drops** are listed for clarity, but are not boosted rates.
 

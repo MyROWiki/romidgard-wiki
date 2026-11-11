@@ -53,6 +53,7 @@ Start with these guides if you are new to Return of Midgard:
 | MVP Default Drops | x1 |
 | Classes | Transcendent + classic Expanded classes |
 | Current Episode | Episode 12: The Demise of Morroc |
+| Costume Items | **None — not available** |
 
 ## 🎮 Permanently Free-to-Play
 

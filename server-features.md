@@ -37,6 +37,12 @@ The playable world is limited to content appropriate for **Episode 12: The Demis
 
 Most regular items and monster drop tables follow Episode 12 data. Selected headgears, Cash Shop items, and Cash Box items may include content up to Episode 13. See [Episode 12: The Demise of Morroc](episode-12-the-demise-of-morroc.md) for the full item, drop, and map scope.
 
+## No Costume Items
+
+**Return of Midgard does not offer costume items or costume equipment.** The server focuses on classic Ragnarok Online equipment and character appearance, rather than costume overlays or costume headgears.
+
+Regular **headgears are still available**, but they are not costume items. This distinction also applies to the regular NPC shops and Cash Shop.
+
 ## Classic pRO-Inspired Client Experience
 
 If you played old **pRO**, the server is designed to bring back that familiar classic feeling. The user interface and selected client features follow the style many players remember from the old Philippine Ragnarok Online era, helping the game feel immediately familiar while keeping the server focused on classic gameplay.
