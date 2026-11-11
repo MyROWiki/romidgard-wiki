@@ -4,6 +4,8 @@ Welcome to **Return of Midgard** — a classic Pre-Renewal Ragnarok Online exper
 
 Return of Midgard was created to bring back the atmosphere and memories of the **Philippine Ragnarok Online (pRO)** era while keeping the server focused on the classic 99/70 experience.
 
+> **PC Only — No Mobile Support:** Return of Midgard is available for PC gameplay only. Android and iOS devices are not supported, and there is no official mobile game client.
+
 ## Start Here
 
 - [Server Information](server-information.md) — core rates, level limits, classes, drop settings, and gameplay rules.
