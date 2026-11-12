@@ -30,6 +30,7 @@ See [Official Behavior & Server Customizations](official-behavior-and-customizat
 | MVP Maps | PK enabled |
 | Battlegrounds | Currently disabled |
 | Costume Items | **Not available** |
+| Auto-Attack / Auto-Farming | **Not available — no plans to add** |
 
 ## Platform Support
 

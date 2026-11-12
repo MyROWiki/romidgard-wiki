@@ -55,6 +55,7 @@ Start with these guides if you are new to Return of Midgard:
 | Classes | Transcendent + classic Expanded classes |
 | Current Episode | Episode 12: The Demise of Morroc |
 | Costume Items | **None — not available** |
+| Auto-Attack / Auto-Farming | **Not available — no plans to add** |
 
 ## 🎮 Permanently Free-to-Play
 

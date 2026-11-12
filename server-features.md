@@ -49,6 +49,12 @@ Most regular items and monster drop tables follow Episode 12 data. Selected head
 
 Regular **headgears are still available**, but they are not costume items. This distinction also applies to the regular NPC shops and Cash Shop.
 
+## No Auto-Attack or Auto-Farming
+
+**Return of Midgard does not provide an auto-attack, auto-play, or auto-farming system, and we have no plans to introduce one.** Players are expected to actively play and control their characters rather than rely on automated gameplay features.
+
+This refers to automated gameplay systems, **not** the normal basic attacks or skills of classic Ragnarok Online.
+
 ## Classic pRO-Inspired Client Experience
 
 If you played old **pRO**, the server is designed to bring back that familiar classic feeling. The user interface and selected client features follow the style many players remember from the old Philippine Ragnarok Online era, helping the game feel immediately familiar while keeping the server focused on classic gameplay.
