@@ -22,9 +22,9 @@ These are the main differences players should know about:
 
 | Category | Return of Midgard Setting | Purpose / Notes |
 | --- | --- | --- |
-| **Base / Job EXP** | **x1 / x1** | Keeps the baseline leveling rate at x1. |
-| **Normal non-MVP monster drops** | **90%** | A documented server-specific drop setting. |
-| **MVP default drops** | **x1** | MVP drops are not changed to the normal 90% rate. |
+| **Base / Job EXP** | **x50 / x50** | Increased leveling rates while retaining classic Pre-Renewal mechanics. |
+| **Normal monster drops** | **x20** | A documented server-specific multiplier for normal monsters. |
+| **Boss (MVP) drops** | **x1** | Boss (MVP) drops retain their x1 rate. |
 | **Character limits** | **Base 99 / Job 70; max stat 99** | Classic Pre-Renewal progression limits. |
 | **Combat limits** | **190 max ASPD; instant cast at 150 DEX** | Published server settings; see Server Information. |
 | **Free Zeny** | **Provided to players** | Lets players obtain equipment and supplies without spending real money. |
@@ -38,17 +38,13 @@ These are the main differences players should know about:
 | **Costume Items / Costume Headgears** | **Not available** | The server uses classic equipment and appearance; regular headgears are not costume items. |
 | **Auto-Attack / Auto-Farming** | **Not available — not planned** | No automated gameplay feature; normal basic attack and skill mechanics are unchanged. |
 
-The **90% non-MVP drop setting**, free Zeny, NPC shops, convenience NPCs, and optional services are deliberate server adjustments. **x1 EXP and x1 MVP drops** are listed for clarity, but are not boosted rates.
+The **x50 Base and Job EXP rates**, **x20 normal monster drops**, free Zeny, NPC shops, convenience NPCs, and optional services are deliberate server adjustments. **Boss (MVP) drops remain x1**.
 
-### Rates Under Review
+### Mini-Boss Drop Rate — Under Review
 
-The rates currently published in this Wiki are **provisional where noted and subject to change** as we review the server's final drop settings.
+The current published settings are **x50 Base EXP**, **x50 Job EXP**, **x20 normal monster drops**, and **x1 Boss (MVP) drops**.
 
-- **MVP Drop Rate: x1 — Confirmed.**
-- **Mini-Boss Drop Rate: Under Review.**
-- **Normal Monster Drop Rate: Under Review** (currently listed as 90%).
-
-Until an official change is announced, the rates already published in this Wiki remain the reference for the current server settings. Any finalized adjustments will be announced and documented here.
+The **Mini-Boss drop rate is still under review** and will be documented separately when finalized.
 
 ## Important Exceptions & Boundaries
 

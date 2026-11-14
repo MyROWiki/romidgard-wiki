@@ -21,10 +21,10 @@ See [Official Behavior & Server Customizations](official-behavior-and-customizat
 | Maximum Stat | 99 |
 | Maximum ASPD | 190 |
 | Instant Cast | 150 DEX |
-| Base EXP Rate | x1 |
-| Job EXP Rate | x1 |
-| Non-MVP Drop Rate | 90% |
-| MVP Default Drops | x1 |
+| Base EXP Rate | x50 |
+| Job EXP Rate | x50 |
+| Normal Monster Drop Rate | x20 |
+| Boss (MVP) Drop Rate | x1 |
 | Current Episode | Episode 12: The Demise of Morroc |
 | Classes | Transcendent + classic Expanded classes |
 | MVP Maps | PK enabled |
@@ -40,19 +40,15 @@ For installation instructions, see [Getting Started](getting-started.md).
 
 ## Drop Settings
 
-Normal non-MVP monster drops are set to **90%**.
+**Normal monster drop rate: x20.**
 
-**MVP default drops remain at x1** and are not changed to the 90% non-MVP rate.
+**Boss (MVP) drop rate: x1.** Boss rewards retain their x1 rate rather than using the normal-monster multiplier.
 
-### Rates Under Review
+### Mini-Boss Drop Rate — Under Review
 
-The rates currently published in this Wiki are **provisional where noted and subject to change** as we review the server's final drop settings.
+The **Mini-Boss drop rate has not yet been finalized**. The current published rates are **x50 Base EXP**, **x50 Job EXP**, **x20 normal monster drops**, and **x1 Boss (MVP) drops**.
 
-- **MVP Drop Rate: x1 — Confirmed.**
-- **Mini-Boss Drop Rate: Under Review.**
-- **Normal Monster Drop Rate: Under Review** (currently listed as 90%).
-
-Until an official change is announced, the rates already published in this Wiki remain the reference for the current server settings. Any finalized adjustments will be announced and documented here.
+The Mini-Boss drop rate will be updated once confirmed.
 
 ## Free-to-Play Access
 

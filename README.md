@@ -48,10 +48,10 @@ Start with these guides if you are new to Return of Midgard:
 | Maximum Stat | 99 |
 | Maximum ASPD | 190 |
 | Instant Cast | 150 DEX |
-| Base EXP | x1 |
-| Job EXP | x1 |
-| Non-MVP Drop Rate | 90% |
-| MVP Default Drops | x1 |
+| Base EXP | x50 |
+| Job EXP | x50 |
+| Normal Monster Drop Rate | x20 |
+| Boss (MVP) Drop Rate | x1 |
 | Classes | Transcendent + classic Expanded classes |
 | Current Episode | Episode 12: The Demise of Morroc |
 | Costume Items | **None — not available** |

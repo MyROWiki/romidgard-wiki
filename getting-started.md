@@ -57,9 +57,9 @@ Before leveling, review [Server Information](server-information.md). Key setting
 - Maximum stat 99
 - Maximum ASPD 190
 - Instant cast at 150 DEX
-- x1 Base EXP and x1 Job EXP
-- 90% non-MVP monster drops
-- MVP default drops remain x1
+- x50 Base EXP and x50 Job EXP
+- x20 normal monster drops
+- Boss (MVP) drops remain x1
 - PK enabled on MVP maps
 
 For the current MVP map list, see [MVP & PK Maps](mvp-pk-maps.md).
