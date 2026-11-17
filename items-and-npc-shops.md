@@ -2,24 +2,32 @@
 
 ## Item Availability & NPC Shops
 
-Return of Midgard makes many regular monster-drop items accessible through in-game NPC shops, while keeping **MVP rewards** and **official quest headgears** obtainable through gameplay.
+Return of Midgard offers **selected common items** through Prontera NPC Shops, making character preparation easier while keeping hunting and quests worthwhile.
+
+For shop categories, NPC locations, and details, see [Prontera NPC Shops](prontera-npc-shops.md).
 
 | Item Category | Available in NPC Shops? | How to Obtain |
 | --- | --- | --- |
-| **Normal Monster Drops** — equipment, headgears, and cards | **Yes** | Buy them from NPC shops |
-| **MVP Drops** — equipment, headgears, and cards | **No** | Hunt the corresponding MVP monsters |
-| **Official Quest Headgears** | **No** | Complete their respective official Ragnarok quests |
+| **Selected normal monster drops** — equipment, cards, and headgears | **Some** | Purchase items listed in the active NPC shop inventory; hunt normal monsters for others |
+| **MVP-exclusive drops** | **No** | Hunt the corresponding MVP monsters |
+| **Mini-Boss-exclusive drops** | **No** | Hunt the corresponding Mini-Boss monsters |
+| **Shared drops** (also obtainable from normal monsters) | **Possibly** | Available only when listed in an NPC shop; otherwise obtain through gameplay |
+| **Quest-only headgears** | **No** | Use their intended acquisition methods, including the relevant quests |
 
-### MVP Drops
+### Items Exclusive to MVPs or Mini-Bosses
 
-Items dropped by MVP monsters, including their equipment, headgears, and cards, are **not sold in NPC shops**. Players must hunt MVPs to obtain those rewards.
+Exclusive MVP and Mini-Boss drops are not sold in NPC Shops. These rewards keep their value as hunting goals.
+
+### Shared Drops
+
+An item also dropped by an MVP or Mini-Boss is **not automatically excluded** when it can be obtained from a normal monster. However, that does not guarantee that the item is sold: **the actual shop inventory determines availability**.
 
 ### Normal Monster Drops
 
-Equipment, headgears, and cards that normally drop from **regular monsters** are available from NPC shops. This makes character preparation easier without removing the value of MVP hunting.
+Selected normal monster-drop equipment, cards, and headgears are available in Prontera. **Not all normal monster drops are sold.**
 
-### Official Quest Headgears
+### Quest-Only Headgears
 
-Headgears obtained through official quests are **not sold in NPC shops**. You must complete their corresponding quests, as in classic Ragnarok Online.
+Quest-only headgears and other headgears without a normal monster drop source are not sold in these NPC Shops. Obtain them through the intended acquisition method.
 
-Examples include **Mr. Smile**, **Sunday Hat**, and **Boy's Cap**.
+Our aim is to make everyday preparation easier without removing the purpose of hunting, quests, or classic Ragnarok progression.

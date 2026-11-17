@@ -30,7 +30,7 @@ Players receive **free Zeny** that can be used in the in-game shops to purchase:
 - Potions and consumables
 - Supplies and other essentials
 
-**Shop exceptions:** Equipment, cards, and headgears that drop from regular monsters are sold in NPC shops, but **MVP drops** are not. **Official quest headgears** such as Mr. Smile, Sunday Hat, and Boy's Cap must be obtained through their respective quests. See [Item Availability & NPC Shops](items-and-npc-shops.md).
+**Shop availability:** Prontera NPC Shops sell selected regular monster-drop equipment, cards, headgears, and supplies—not every item in those categories. **MVP- and Mini-Boss-exclusive drops** are not sold; items also dropped by normal monsters may be sold if included in the actual shop inventory. **Quest-only headgears** remain obtainable through their intended methods. See [Prontera NPC Shops](prontera-npc-shops.md) and [Items & NPC Shops](items-and-npc-shops.md).
 
 A **Job Changer NPC** and **Miracle Tonic** are also available so players can build and prepare characters faster.
 

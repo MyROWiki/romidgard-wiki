@@ -6,6 +6,7 @@ This section collects useful NPCs and player services available on the server. E
 
 | Guide | Location | Purpose |
 | --- | --- | --- |
+| [Prontera NPC Shops](prontera-npc-shops.md) | Prontera (multiple shopkeepers) | Browse selected supplies, weapons, equipment, cards, and headgears |
 | [Gym Pass — Ripped Cabus](gym-pass.md) | Prontera `150,280` | Increase item carrying capacity using Gym Membership Cards |
 | [Reset Stats — The Great Alchemist](reset-stats.md) | Prontera `155,285` | Reset allocated stats to 1 and recover status points using Shard of Odin |
 | [Dye Clothes — Stylist Dinorah Lacostt](dye-clothes.md) | Orc Village (`in_orcs01`), Yuno, Comodo | Change or restore your character's clothing color using Clothing Dye Coupons |
