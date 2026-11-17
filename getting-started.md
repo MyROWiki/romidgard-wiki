@@ -48,6 +48,8 @@ Expanded options include:
 
 Third Jobs are not part of the server's Episode 12 setting.
 
+For job-change requirements, supported classes, and rebirth instructions, see the [Job Changer](job-changer.md) guide.
+
 ## 6. Know the Core Settings
 
 Before leveling, review [Server Information](server-information.md). Key settings include:
@@ -69,7 +71,7 @@ For the current MVP map list, see [MVP & PK Maps](mvp-pk-maps.md).
 
 The server is **permanently free-to-play**. Players receive free Zeny that can be used in the in-game shops to purchase Armor, equipment, Cards, Headgears, Potions, supplies, and other essentials.
 
-A **Job Changer NPC** and **Miracle Tonic** are also available to help you prepare your character faster and reach the maximum Base Level of 99.
+A **[Job Changer NPC](job-changer.md)** and **Miracle Tonic** are also available to help you prepare your character faster and reach the maximum Base Level of 99.
 
 The goal is to let players spend less time preparing and more time testing builds, joining PvP and WoE, and hunting MVPs.
 

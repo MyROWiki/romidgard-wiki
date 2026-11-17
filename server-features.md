@@ -32,7 +32,7 @@ Players receive **free Zeny** that can be used in the in-game shops to purchase:
 
 **Shop availability:** Prontera NPC Shops sell selected regular monster-drop equipment, cards, headgears, and supplies—not every item in those categories. **MVP- and Mini-Boss-exclusive drops** are not sold; items also dropped by normal monsters may be sold if included in the actual shop inventory. **Quest-only headgears** remain obtainable through their intended methods. See [Prontera NPC Shops](prontera-npc-shops.md) and [Items & NPC Shops](items-and-npc-shops.md).
 
-A **Job Changer NPC** and **Miracle Tonic** are also available so players can build and prepare characters faster.
+A **[Job Changer NPC](job-changer.md)** and **Miracle Tonic** are also available so players can build and prepare characters faster. The Job Changer is located at Prontera `146,105`; job changes are free, but class and level requirements still apply.
 
 The purpose of these features is to reduce unnecessary preparation time while keeping the actual PvP, WoE, MVP, and classic gameplay experience at the center of the server.
 

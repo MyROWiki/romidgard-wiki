@@ -9,6 +9,7 @@
   * [Browse Patch Notes](patch-notes-menu.md)
 * [🧭 NPC & Services](npc-services.md)
   * [Prontera NPC Shops](prontera-npc-shops.md)
+  * [Job Changer](job-changer.md)
   * [Gym Pass — Ripped Cabus](gym-pass.md)
   * [Reset Stats — The Great Alchemist](reset-stats.md)
   * [Dye Clothes — Stylist Dinorah Lacostt](dye-clothes.md)
