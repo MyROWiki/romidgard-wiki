@@ -50,7 +50,7 @@ Start with these guides if you are new to Return of Midgard:
 | Instant Cast | 150 DEX |
 | Base EXP | x100 |
 | Job EXP | x100 |
-| Normal Monster Drop Rate | x20 |
+| Normal Monster Drop Rate | 90% |
 | Boss (MVP) Drop Rate | x1 |
 | Classes | Transcendent + classic Expanded classes |
 | Current Episode | Episode 12: The Demise of Morroc |

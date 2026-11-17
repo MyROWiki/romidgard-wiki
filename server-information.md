@@ -23,7 +23,7 @@ See [Official Behavior & Server Customizations](official-behavior-and-customizat
 | Instant Cast | 150 DEX |
 | Base EXP Rate | x100 |
 | Job EXP Rate | x100 |
-| Normal Monster Drop Rate | x20 |
+| Normal Monster Drop Rate | 90% |
 | Boss (MVP) Drop Rate | x1 |
 | Current Episode | Episode 12: The Demise of Morroc |
 | Classes | Transcendent + classic Expanded classes |
@@ -40,13 +40,13 @@ For installation instructions, see [Getting Started](getting-started.md).
 
 ## Drop Settings
 
-**Normal monster drop rate: x20.**
+**Normal monster drop rate: 90%.**
 
-**Boss (MVP) drop rate: x1.** Boss rewards retain their x1 rate rather than using the normal-monster multiplier.
+**Boss (MVP) drop rate: x1.** Boss rewards retain their x1 rate, separate from the normal monster 90% drop setting.
 
 ### Mini-Boss Drop Rate — Under Review
 
-The **Mini-Boss drop rate has not yet been finalized**. The current published rates are **x100 Base EXP**, **x100 Job EXP**, **x20 normal monster drops**, and **x1 Boss (MVP) drops**.
+The **Mini-Boss drop rate has not yet been finalized**. The current published rates are **x100 Base EXP**, **x100 Job EXP**, **90% normal monster drop rate**, and **x1 Boss (MVP) drops**.
 
 The Mini-Boss drop rate will be updated once confirmed.
 

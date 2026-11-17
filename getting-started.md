@@ -58,7 +58,7 @@ Before leveling, review [Server Information](server-information.md). Key setting
 - Maximum ASPD 190
 - Instant cast at 150 DEX
 - x100 Base EXP and x100 Job EXP
-- x20 normal monster drops
+- 90% normal monster drop rate
 - Boss (MVP) drops remain x1
 - PK enabled on MVP maps
 

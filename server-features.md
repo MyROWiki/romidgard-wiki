@@ -15,7 +15,7 @@ See [Getting Started](getting-started.md) for PC installation and patching instr
 - Maximum ASPD: 190
 - Instant Cast: 150 DEX
 - Base EXP / Job EXP Rate: x100 / x100
-- Normal monster drop rate: x20
+- Normal monster drop rate: 90%
 - Boss (MVP) drop rate: x1
 
 ## Permanently Free-to-Play & Ready for Action
