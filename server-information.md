@@ -21,8 +21,8 @@ See [Official Behavior & Server Customizations](official-behavior-and-customizat
 | Maximum Stat | 99 |
 | Maximum ASPD | 190 |
 | Instant Cast | 150 DEX |
-| Base EXP Rate | x50 |
-| Job EXP Rate | x50 |
+| Base EXP Rate | x100 |
+| Job EXP Rate | x100 |
 | Normal Monster Drop Rate | x20 |
 | Boss (MVP) Drop Rate | x1 |
 | Current Episode | Episode 12: The Demise of Morroc |
@@ -46,7 +46,7 @@ For installation instructions, see [Getting Started](getting-started.md).
 
 ### Mini-Boss Drop Rate — Under Review
 
-The **Mini-Boss drop rate has not yet been finalized**. The current published rates are **x50 Base EXP**, **x50 Job EXP**, **x20 normal monster drops**, and **x1 Boss (MVP) drops**.
+The **Mini-Boss drop rate has not yet been finalized**. The current published rates are **x100 Base EXP**, **x100 Job EXP**, **x20 normal monster drops**, and **x1 Boss (MVP) drops**.
 
 The Mini-Boss drop rate will be updated once confirmed.
 

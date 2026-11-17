@@ -48,8 +48,8 @@ Start with these guides if you are new to Return of Midgard:
 | Maximum Stat | 99 |
 | Maximum ASPD | 190 |
 | Instant Cast | 150 DEX |
-| Base EXP | x50 |
-| Job EXP | x50 |
+| Base EXP | x100 |
+| Job EXP | x100 |
 | Normal Monster Drop Rate | x20 |
 | Boss (MVP) Drop Rate | x1 |
 | Classes | Transcendent + classic Expanded classes |
