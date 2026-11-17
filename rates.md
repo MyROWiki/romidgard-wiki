@@ -15,13 +15,9 @@ The following are the **current published server rates** for Return of Midgard.
 | --- | --- | --- |
 | **Normal Monsters** | **90%** | Current published setting |
 | **Boss (MVP) Monsters** | **x1** | Confirmed |
-| **Mini-Boss Monsters** | **Under Review** | Not yet finalized |
+| **Mini-Boss Monsters** | **x1** | Confirmed |
 
-**Important:** The normal monster drop setting and the Boss (MVP) drop rate are separate. The **90%** normal monster setting does not apply to Boss (MVP) drops.
-
-### Mini-Boss Drop Rate
-
-The Mini-Boss drop rate is **still under review**. We will update this section once the setting has been finalized.
+**Important:** The **90%** normal monster drop setting is separate from the **x1** Mini-Boss and Boss (MVP) drop rates.
 
 ## Rate Updates
 

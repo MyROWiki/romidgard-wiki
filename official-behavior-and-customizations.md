@@ -24,6 +24,7 @@ These are the main differences players should know about:
 | --- | --- | --- |
 | **Base / Job EXP** | **x100 / x100** | Increased leveling rates while retaining classic Pre-Renewal mechanics. |
 | **Normal monster drops** | **90%** | A documented server-specific setting for normal monsters. |
+| **Mini-Boss drops** | **x1** | Mini-Boss drops retain their x1 rate. |
 | **Boss (MVP) drops** | **x1** | Boss (MVP) drops retain their x1 rate. |
 | **Character limits** | **Base 99 / Job 70; max stat 99** | Classic Pre-Renewal progression limits. |
 | **Combat limits** | **190 max ASPD; instant cast at 150 DEX** | Published server settings; see Server Information. |
@@ -38,13 +39,7 @@ These are the main differences players should know about:
 | **Costume Items / Costume Headgears** | **Not available** | The server uses classic equipment and appearance; regular headgears are not costume items. |
 | **Auto-Attack / Auto-Farming** | **Not available — not planned** | No automated gameplay feature; normal basic attack and skill mechanics are unchanged. |
 
-The **x100 Base and Job EXP rates**, **90% normal monster drop rate**, free Zeny, NPC shops, convenience NPCs, and optional services are deliberate server adjustments. **Boss (MVP) drops remain x1**.
-
-### Mini-Boss Drop Rate — Under Review
-
-The current published settings are **x100 Base EXP**, **x100 Job EXP**, **90% normal monster drop rate**, and **x1 Boss (MVP) drops**.
-
-The **Mini-Boss drop rate is still under review** and will be documented separately when finalized.
+The **x100 Base and Job EXP rates**, **90% normal monster drop rate**, free Zeny, NPC shops, convenience NPCs, and optional services are deliberate server adjustments. **Mini-Boss and Boss (MVP) drops remain x1**.
 
 ## Important Exceptions & Boundaries
 

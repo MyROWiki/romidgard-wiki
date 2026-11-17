@@ -16,6 +16,7 @@ See [Getting Started](getting-started.md) for PC installation and patching instr
 - Instant Cast: 150 DEX
 - Base EXP / Job EXP Rate: x100 / x100
 - Normal monster drop rate: 90%
+- Mini-Boss drop rate: x1
 - Boss (MVP) drop rate: x1
 
 ## Permanently Free-to-Play & Ready for Action

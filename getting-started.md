@@ -59,6 +59,7 @@ Before leveling, review [Server Information](server-information.md). Key setting
 - Instant cast at 150 DEX
 - x100 Base EXP and x100 Job EXP
 - 90% normal monster drop rate
+- Mini-Boss drops remain x1
 - Boss (MVP) drops remain x1
 - PK enabled on MVP maps
 
