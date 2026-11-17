@@ -13,6 +13,7 @@
   * [Dye Clothes — Stylist Dinorah Lacostt](dye-clothes.md)
   * [Premium Account Services](premium-account-services.md)
 * [⚔️ Game Information](game-information.md)
+  * [Rates](rates.md)
   * [Server Features](server-features.md)
   * [Official Behavior & Server Customizations](official-behavior-and-customizations.md)
   * [Episode 12: The Demise of Morroc](episode-12-the-demise-of-morroc.md)

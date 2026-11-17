@@ -40,6 +40,8 @@ For installation instructions, see [Getting Started](getting-started.md).
 
 ## Drop Settings
 
+For a complete rates overview, see the dedicated [Rates](rates.md) page.
+
 **Normal monster drop rate: 90%.**
 
 **Boss (MVP) drop rate: x1.** Boss rewards retain their x1 rate, separate from the normal monster 90% drop setting.

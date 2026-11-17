@@ -4,6 +4,7 @@ Explore the main gameplay information for **Return of Midgard** and its Episode 
 
 ## Guides
 
+- [Rates](rates.md) — current Base and Job EXP rates, monster drop settings, and Mini-Boss rate status.
 - [Server Features](server-features.md) — classic client features, PvP, WoE, MVP hunting, rankings, and supported systems.
 - [Official Behavior & Server Customizations](official-behavior-and-customizations.md) — our approach to preserving classic mechanics and the clearly documented server adjustments.
 - [Episode 12: The Demise of Morroc](episode-12-the-demise-of-morroc.md) — episode scope, maps, monster-drop direction, and classic-era content.
