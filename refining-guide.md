@@ -10,15 +10,17 @@ This guide covers the required refining materials, safe upgrade limits, normal a
 
 Each equipment type requires a specific material when using the normal refining system.
 
-| Equipment | Required Material | Safe Upgrade Limit |
-| --- | --- | --- |
-| **Weapon Level 1** | ![Phracon](images/phracon.png) **Phracon** | **+7** |
-| **Weapon Level 2** | ![Emveretarcon](images/emveretarcon.png) **Emveretarcon** | **+6** |
-| **Weapon Level 3** | ![Oridecon](images/oridecon.png) **Oridecon** | **+5** |
-| **Weapon Level 4** | ![Oridecon](images/oridecon.png) **Oridecon** | **+4** |
-| **Armor** | ![Elunium](images/elunium.png) **Elunium** | **+4** |
+| Equipment | Required Material | Refining Fee | Safe Upgrade Limit |
+| --- | --- | ---: | --- |
+| **Weapon Level 1** | ![Phracon](images/phracon.png) **Phracon** | **50 Zeny** | **+7** |
+| **Weapon Level 2** | ![Emveretarcon](images/emveretarcon.png) **Emveretarcon** | **200 Zeny** | **+6** |
+| **Weapon Level 3** | ![Oridecon](images/oridecon.png) **Oridecon** | **5,000 Zeny** | **+5** |
+| **Weapon Level 4** | ![Oridecon](images/oridecon.png) **Oridecon** | **20,000 Zeny** | **+4** |
+| **Armor** | ![Elunium](images/elunium.png) **Elunium** | **2,000 Zeny** | **+4** |
 
 A **safe upgrade** has a **100% success rate**. Attempts beyond the safe limit have a chance to fail.
+
+**Refining fees are charged per attempt**, separate from the cost of the required material.
 
 ## Normal Refining Success Rates
 
@@ -38,10 +40,10 @@ The table below shows the chance of successfully reaching the listed upgrade lev
 
 Enriched ores offer **higher success rates** than normal ores for certain upgrades from **+1 to +10**. They do **not** make equipment indestructible.
 
-| Equipment | Enriched Material |
-| --- | --- |
-| **Weapons** | ![Enriched Oridecon](images/enriched-oridecon.png) **Enriched Oridecon** |
-| **Armor** | ![Enriched Elunium](images/enriched-elunium.png) **Enriched Elunium** |
+| Equipment | Enriched Material | Refining Fee |
+| --- | --- | ---: |
+| **Weapons** | ![Enriched Oridecon](images/enriched-oridecon.png) **Enriched Oridecon** | **2,000 Zeny** |
+| **Armor** | ![Enriched Elunium](images/enriched-elunium.png) **Enriched Elunium** | **2,000 Zeny** |
 
 ### Enriched Refining Success Rates
 
@@ -55,7 +57,7 @@ Enriched ores offer **higher success rates** than normal ores for certain upgrad
 
 **Important:** Enriched refining **can still fail**. When an attempt fails under the classic enriched refining system, **the equipment and any cards slotted into it are destroyed**. Enriched ores increase your chance of success; they do not protect the item from breaking.
 
-**Availability note:** This table documents classic enriched refining rates. The availability of Enriched Ores, supported NPCs, and any required fees should be checked in-game; this page does not confirm that every enriched refining service is currently active.
+**Enriched refining NPC:** Visit **Suhnbi** in **central Payon**, near the regular refining NPCs, or in **Prontera (`prt_in`)**, close to the normal refiner. Bring the appropriate Enriched Ore and the **2,000 Zeny** refining fee.
 
 ## Where to Find Refine NPCs
 
@@ -63,7 +65,14 @@ Refining NPCs can be found in several major towns, sometimes inside buildings or
 
 ![Reference map showing refine NPC locations in major towns](images/refine-locations.png)
 
-The map is a **location reference**. Please check the relevant NPC in-game for the currently available services and requirements.
+### Enriched Refiner — Suhnbi
+
+| Location | Where to Find Suhnbi |
+| --- | --- |
+| **Payon** | In **central Payon**, near the regular refining NPCs shown on the Payon map |
+| **Prontera (`prt_in`)** | Inside the refinement building, close to the regular refiner |
+
+Suhnbi provides equipment refining with **Enriched Oridecon** and **Enriched Elunium**. The map above is a reference for finding the nearby refining NPCs.
 
 ## Important Refining Rules
 
@@ -73,8 +82,6 @@ The map is a **location reference**. Please check the relevant NPC in-game for t
 - **Success rates apply per attempt**, not to the overall probability of reaching a high upgrade level from +0.
 - **Classic scope:** this guide covers upgrades through **+10**. Renewal-era systems for +11 and above are not covered.
 
-## Reference
-
-The success-rate tables and normal refining materials follow the classic reference published by [RateMyServer — Weapon and Armor Refine Success Rates](https://ratemyserver.net/index.php?page=misc_table_refine). Exact in-game NPC availability and operating costs should be verified against the current server implementation.
+## Related Guides
 
 For other player services, visit [NPC & Services](npc-services.md).
