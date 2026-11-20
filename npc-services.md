@@ -8,6 +8,7 @@ This section collects useful NPCs and player services available on the server. E
 | --- | --- | --- |
 | [Prontera NPC Shops](prontera-npc-shops.md) | Prontera (multiple shopkeepers) | Browse selected supplies, weapons, equipment, cards, and headgears |
 | [Job Changer](job-changer.md) | Prontera `146,105` | Change to eligible classes or begin rebirth at no Zeny cost |
+| [Refining Guide](refining-guide.md) | Major towns (see location map) | Normal and enriched refining materials, safe limits, success rates, and NPC location reference |
 | [Mr. Claus — Aldebaran](mr-claus.md) | Aldebaran `168,168` | Travel to Lutie through the classic pRO-inspired Santa NPC |
 | [Gym Pass — Ripped Cabus](gym-pass.md) | Prontera `150,280` | Increase item carrying capacity using Gym Membership Cards |
 | [Reset Stats — The Great Alchemist](reset-stats.md) | Prontera `155,285` | Reset allocated stats to 1 and recover status points using Shard of Odin |

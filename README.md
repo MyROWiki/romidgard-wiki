@@ -34,6 +34,7 @@ Start with these guides if you are new to Return of Midgard:
 | [NPC & Services](npc-services.md) | Useful NPCs, service locations, requirements, and item needs |
 | [Prontera NPC Shops](prontera-npc-shops.md) | Selected supplies, weapons, equipment, cards, and headgears in Prontera |
 | [Job Changer](job-changer.md) | Free job changes and rebirth guide, including level requirements and class options |
+| [Refining Guide](refining-guide.md) | Classic Pre-Renewal normal and enriched upgrade tables, ores, and NPC map reference |
 | [Mr. Claus — Aldebaran](mr-claus.md) | Location and NPC sprite of the classic pRO-inspired Santa Claus |
 | [Server Features](server-features.md) | Classic client features, PvP, WoE, MVP hunting, rankings, and server systems |
 | [Rates](rates.md) | Base and Job EXP, normal monster drops, Boss (MVP) drops, and Mini-Boss rate status |
