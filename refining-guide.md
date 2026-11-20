@@ -26,7 +26,7 @@ A **safe upgrade** has a **100% success rate**. Attempts beyond the safe limit h
 
 The table below shows the chance of successfully reaching the listed upgrade level when refining with normal materials.
 
-| Refine | Armor | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 |
+| Refine | Armor | Weapon Lv. 1 | Weapon Lv. 2 | Weapon Lv. 3 | Weapon Lv. 4 |
 | :---: | ---: | ---: | ---: | ---: | ---: |
 | **+1** | 100% | 100% | 100% | 100% | 100% |
 | **+2** | 100% | 100% | 100% | 100% | 100% |
@@ -52,7 +52,7 @@ Enriched ores offer **higher success rates** than normal ores for certain upgrad
 
 ### Enriched Refining Success Rates
 
-| Refine | Armor | Lv. 1 | Lv. 2 | Lv. 3 | Lv. 4 |
+| Refine | Armor | Weapon Lv. 1 | Weapon Lv. 2 | Weapon Lv. 3 | Weapon Lv. 4 |
 | :---: | ---: | ---: | ---: | ---: | ---: |
 | **+1** | 100% | 100% | 100% | 100% | 100% |
 | **+2** | 100% | 100% | 100% | 100% | 100% |
