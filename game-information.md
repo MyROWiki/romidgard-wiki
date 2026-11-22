@@ -4,6 +4,8 @@ Explore the main gameplay information for **Return of Midgard** and its Episode 
 
 ## Guides
 
+- [Game Database](game-database.md) — search monsters and items, check drops, spawn locations, and item sources on the [official website](https://romidgard.com/database/).
+
 - [Rates](rates.md) — current Base and Job EXP rates, monster drop settings, and Mini-Boss rate status.
 - [Refining Guide](refining-guide.md) — classic normal and enriched refinement rates, materials, and NPC map reference.
 - [Server Features](server-features.md) — classic client features, PvP, WoE, MVP hunting, rankings, and supported systems.
