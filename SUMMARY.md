@@ -33,4 +33,4 @@
     * [Kafra Storage Password](kafra-storage-password.md)
     * [Monster HP Bar](monster-hp-bar.md)
 * [🎁 Claiming Rewards](claiming-rewards.md)
-* [🛡️ Game Guard — Coming Soon](game-guard.md)
+* [🛡️ Game Guard — Raven Shield](game-guard.md)
