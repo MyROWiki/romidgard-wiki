@@ -15,6 +15,7 @@ Return of Midgard is not simply about playing an old version of Ragnarok Online.
 ## 🔗 Quick Links
 
 - 🌐 [Official Website](https://romidgard.com/home)
+- 🔎 [Game Database](https://romidgard.com/database/) — search monsters and items
 - 📝 [Create an Account](https://romidgard.com/home/member/register)
 - ⬇️ [Download the Game](https://romidgard.com/home/download) — **PC only; Android and iOS are not supported.**
 - 💬 [Join the Discord](https://romidgard.com/discord)
@@ -37,6 +38,7 @@ Start with these guides if you are new to Return of Midgard:
 | [Refining Guide](refining-guide.md) | Classic Pre-Renewal normal and enriched upgrade tables, ores, and NPC map reference |
 | [Mr. Claus — Aldebaran](mr-claus.md) | Location and NPC sprite of the classic pRO-inspired Santa Claus |
 | [Server Features](server-features.md) | Classic client features, PvP, WoE, MVP hunting, rankings, and server systems |
+| [Game Database](game-database.md) | Official monster and item search, drop sources, spawn locations, and item information |
 | [Rates](rates.md) | Base and Job EXP, normal monster drops, Boss (MVP) drops, and Mini-Boss rate status |
 | [Episode 12: The Demise of Morroc](episode-12-the-demise-of-morroc.md) | Episode scope, maps, drops, and classic-era content |
 | [MVP & PK Maps](mvp-pk-maps.md) | Current MVP maps where PK is enabled |
