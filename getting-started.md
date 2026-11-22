@@ -79,6 +79,6 @@ The goal is to let players spend less time preparing and more time testing build
 
 From here you can focus on leveling, farming, party play, MVP hunting, PvP, War of Emperium, and guild activities throughout the Episode 12 world.
 
-Remember that the server's monster drop tables follow Episode 12 data, so third-party databases may not always match. An in-game **`/database`** feature is planned to provide the actual server drop information directly in-game.
+Use the [official Game Database](https://romidgard.com/database/) to search Episode 12 monsters and items, check drop sources and spawn locations, and plan your hunting or equipment builds. See the [Game Database guide](game-database.md) for details.
 
 Continue with [Server Features](server-features.md) to learn about the server's major systems.
