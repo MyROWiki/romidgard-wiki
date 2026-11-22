@@ -17,6 +17,8 @@
   * [Dye Clothes — Stylist Dinorah Lacostt](dye-clothes.md)
   * [Premium Account Services](premium-account-services.md)
 * [⚔️ Game Information](game-information.md)
+  * [Game Database](game-database.md)
+    * [Open Game Database](https://romidgard.com/database/)
   * [Rates](rates.md)
   * [Server Features](server-features.md)
   * [Official Behavior & Server Customizations](official-behavior-and-customizations.md)
