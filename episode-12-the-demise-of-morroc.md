@@ -35,11 +35,9 @@ These exceptions do not change the server's main Episode 12 progression, maps, c
 
 Monster drop tables follow **Episode 12 data**.
 
-Because of this, drop information found on third-party databases such as **RateMyServer.net** may not always match the server. External websites may display data from a different episode, server version, or later database revision.
+Use the [official Return of Midgard Game Database](https://romidgard.com/database/) to search monsters and items, view drops, and check spawn locations for our Episode 12 world. See [Game Database](game-database.md) for details.
 
-The server plans to add an in-game **`/database`** feature so players can check the actual monster drops directly in-game.
-
-Monster spawn locations have not been custom-relocated simply to match third-party databases. The server follows its intended Episode 12 world and map setup.
+Monster spawn locations follow the server's intended Episode 12 world and map setup.
 
 ## Episode 12 Map Note: Ant Hell
 
