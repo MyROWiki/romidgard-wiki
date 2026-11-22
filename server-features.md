@@ -44,6 +44,10 @@ The playable world is limited to content appropriate for **Episode 12: The Demis
 
 Most regular items and monster drop tables follow Episode 12 data. Selected headgears, Cash Shop items, and Cash Box items may include content up to Episode 13. See [Episode 12: The Demise of Morroc](episode-12-the-demise-of-morroc.md) for the full item, drop, and map scope.
 
+## Official Game Database
+
+Search Episode 12 monsters and items on the [official Game Database](https://romidgard.com/database/), including monster stats, drop sources, spawn locations, and item information. See the [Game Database guide](game-database.md) for details.
+
 ## No Costume Items
 
 **Return of Midgard does not offer costume items or costume equipment.** The server focuses on classic Ragnarok Online equipment and character appearance, rather than costume overlays or costume headgears.
