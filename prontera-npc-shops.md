@@ -68,6 +68,8 @@ If the same item can also be dropped by a **normal monster**, it may remain avai
 
 A normal monster dropping an item does not guarantee that the item is sold by an NPC. Only items included in the server's active shop list are purchasable. Shop inventory may be adjusted as the server is updated.
 
+The [official Game Database](https://romidgard.com/database/) lists official NPC shop sources where available. Custom Prontera NPC Shops, including the Supplies Shop, are not included in its **Where to Buy** listings. Check the in-game shopkeepers for their current inventory.
+
 ## Hunting and Quests Still Matter
 
 Convenient access to common items does not make hunting unnecessary. Players still have reasons to explore maps, hunt for items not offered in shops, challenge Mini-Bosses and MVPs for exclusive rewards, and complete quests for special equipment and headgears.
