@@ -17,11 +17,7 @@ Third Jobs and later-era advanced class evolutions are not part of the server's 
 
 ## Battlegrounds Status
 
-**Battlegrounds is part of the Episode 12 era, but it is currently disabled on the server.**
-
-Battlegrounds queues, maps, NPC access, and related rewards are therefore not currently available to players.
-
-This does not change the server's Episode 12 content direction; it simply reflects the current server configuration. If Battlegrounds is enabled in the future, this wiki will be updated with the appropriate access and gameplay information.
+**Battlegrounds is implemented and available in Return of Midgard** as part of the server's Episode 12 gameplay content.
 
 ## Item Availability
 
