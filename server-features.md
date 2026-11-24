@@ -111,6 +111,10 @@ See [MVP & PK Maps](mvp-pk-maps.md) for the current Episode 12 MVP-map list.
 
 Players can test builds, equipment, and teamwork through supported PvP environments and ranking systems.
 
+## Battlegrounds
+
+**Battlegrounds is implemented and available** as part of Return of Midgard's classic Episode 12 gameplay experience.
+
 ## War of Emperium
 
 ### Current Schedule
