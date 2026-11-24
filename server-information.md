@@ -29,7 +29,7 @@ See [Official Behavior & Server Customizations](official-behavior-and-customizat
 | Current Episode | Episode 12: The Demise of Morroc |
 | Classes | Transcendent + classic Expanded classes |
 | MVP Maps | PK enabled |
-| Battlegrounds | Currently disabled |
+| Battlegrounds | Implemented / Available |
 | Costume Items | **Not available** |
 | Auto-Attack / Auto-Farming | **Not available — no plans to add** |
 
@@ -66,9 +66,7 @@ Premium remains optional and is not required to access the core game.
 
 ## Battlegrounds Status
 
-Battlegrounds belongs to the **Episode 12 era**, but the feature is **currently disabled on the server**.
-
-Battlegrounds queues, maps, NPC access, and related rewards are not currently available. The wiki will be updated if the feature is enabled later.
+**Battlegrounds is now implemented and available in Return of Midgard.** It is part of the server's classic Episode 12 gameplay content.
 
 ## Class Progression
 
